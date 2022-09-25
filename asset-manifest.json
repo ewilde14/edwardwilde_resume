@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wilde_edward_resumeproject/static/css/main.073c9b0a.css",
+    "main.js": "/wilde_edward_resumeproject/static/js/main.e0a22452.js",
+    "static/js/787.abe36915.chunk.js": "/wilde_edward_resumeproject/static/js/787.abe36915.chunk.js",
+    "static/media/logo.svg": "/wilde_edward_resumeproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wilde_edward_resumeproject/index.html",
+    "main.073c9b0a.css.map": "/wilde_edward_resumeproject/static/css/main.073c9b0a.css.map",
+    "main.e0a22452.js.map": "/wilde_edward_resumeproject/static/js/main.e0a22452.js.map",
+    "787.abe36915.chunk.js.map": "/wilde_edward_resumeproject/static/js/787.abe36915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e0a22452.js"
+  ]
+}
